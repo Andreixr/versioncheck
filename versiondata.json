@@ -4,8 +4,8 @@
 		"author": "notandrei77",
 		"latest_version": "1.0",
 		"release date": "coming soon",
-		"license": "MIT License"
-		"long_name": "anonymouscomments-v1.0",
+		"License": "MIT License",
+		"long_name": "anonymouscomments-v1.0"
 	},
 	"testrecaptcha": {
 		"name": "Anonymous Comments",
