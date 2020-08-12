@@ -1,4 +1,5 @@
-# You are running the latest version.
+# 
+# You are 0 versions behind. (You are running the latest version)
 #
 # The website that redirected you to this page is running anonymouscomments-v1.0.
 ## Warning: THIS VERSION IS UNSAFE
