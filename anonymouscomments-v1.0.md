@@ -1,6 +1,7 @@
-# 
-# You are 0 versions behind. (You are running the latest version)
-#
+#### notandrei77's versioncheck
+# You are 0 versions behind.
+## You are running the latest version
+
 # The website that redirected you to this page is running anonymouscomments-v1.0.
 ## Warning: THIS VERSION IS UNSAFE
 <b>! THIS TEST VERSION IS NOT SAFE TO USE ON EVERY WEBSITE. IT ALLOWS EVERYONE TO POST AS MANY COMMENTS AS THEY WANT. THIS VERSION DOES NOT HAVE ANY SPAM/LANGUAGE/LINK FILTERS! SPAMBOTS CAN ALSO BE USED.
