@@ -10,7 +10,7 @@
 ### Version: 1.0
 ### Preview: soon
 ### Author(s): [notandrei77](https://github.com/notandrei77)
-### Description: This is the first version of the <b>anonymouscomments<b> project. <b>anonymouscomments</b> allows your unregistred visitors to leave comments on your website.
+### Description: This is the first version of the <b>anonymouscomments<b> project. <b>anonymouscomments</b> allows your unregistered visitors to leave comments on your website.
 ### Release date: soon
 ### Made in: HTML (?%), CSS (?%), PHP(?%), JS(?%)
 ### Languages: English (EN), Romanian (RO)
