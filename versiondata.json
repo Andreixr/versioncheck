@@ -2,10 +2,10 @@
 	"anonymouscomments": {
 		"name": "Anonymous Comments",
 		"author": "notandrei77",
-		"latest_version": "1.0",
+		"latest_version": "v1.0-experimental",
+		"latest_version_shortname": "v1.0-experimental",
 		"latest_release": "13 august 2020",
 		"license": "MIT License",
-		"long_name": "anonymouscomments-v1.0",
 		"download_latest": "https://github.com/notandrei77/anonymouscomments",
 		"documentation": "https://github.com/notandrei77/anonymouscomments/wiki",
 		"support": "https://github.com/notandrei77/anonymouscomments/wiki/Support",
