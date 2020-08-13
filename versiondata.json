@@ -8,8 +8,8 @@
 		"long_name": "anonymouscomments-v1.0",
 		"download_latest": "https://github.com/notandrei77/anonymouscomments",
 		"documentation": "https://github.com/notandrei77/anonymouscomments/wiki",
-		"support": "https://github.com/notandrei77/anonymouscomments/wiki/Support"
-		"first_release": "13 august 2020",
+		"support": "https://github.com/notandrei77/anonymouscomments/wiki/Support",
+		"first_release": "13 august 2020"
 	},
 	"testrecaptcha": {
 		"name": "Anonymous Comments",
