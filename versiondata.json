@@ -9,7 +9,8 @@
 		"download_latest": "https://github.com/notandrei77/anonymouscomments",
 		"documentation": "https://github.com/notandrei77/anonymouscomments/wiki",
 		"support": "https://github.com/notandrei77/anonymouscomments/wiki/Support",
-		"first_release": "13 august 2020"
+		"first_release": "13 august 2020",
+		"description": "Anonymous Comments is a lightweight PHP guestbook which allows unregistered visitors to leave comments on your website. It comes with a nice dark design which can be changed at any time."
 	},
 	"testrecaptcha": {
 		"name": "Anonymous Comments",
