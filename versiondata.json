@@ -1,4 +1,6 @@
 {
+	"global": {
+		"released": "2"
 	"anonymouscomments": {
 		"name": "Anonymous Comments",
 		"author": "notandrei77",
@@ -11,11 +13,6 @@
 		"support": "https://github.com/notandrei77/anonymouscomments/wiki/Support",
 		"first_release": "13 august 2020",
 		"description": "Anonymous Comments is a lightweight PHP guestbook which allows unregistered visitors to leave comments on your website. It comes with a nice dark design which can be changed at any time."
-	},
-	"adminlogin": {
-		"name": "Admin Login",
-		"latest_version": "1.0",
-		"long_name": "nicelogin-v1.0",
-		"author": "notandrei77"
 	}
+
 }
